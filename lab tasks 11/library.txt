@@ -1,0 +1,3 @@
+B123,C Programming,Dennis Ritchie,5,49.99
+B567,Harry Potter,JK Rowling,10,1000
+B098,Matilda,Roald Dahl,10,6766.00
